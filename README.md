@@ -14,6 +14,8 @@ Download [ReTACRED dataset](https://github.com/gstoica27/Re-TACRED) to `data/ReT
 Download [TACREV dataset](https://github.com/DFKI-NLP/tacrev) to `data/TACREV`.
 ### Data processing
 The data process script is coming soon.
+### Relation Description
+This file maps relation lables into relation descriptions.
 
 ## Experiments
 The training scripts is coming soom.
