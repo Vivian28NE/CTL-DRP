@@ -9,9 +9,9 @@ Code for Sentence-Level Relation Extraction via Contrastive Learning with Descri
 ### TACRED
 Download [TACRED dataset](https://nlp.stanford.edu/projects/tacred/) to `data/tacred`.
 ### ReTACRED
-Download [ReTACRED dataset]() to `data/ReTACRED`.
+Download [ReTACRED dataset](https://github.com/gstoica27/Re-TACRED) to `data/ReTACRED`.
 ### TACREV
-Download [TACREV dataset]() to `data/TACREV`.
+Download [TACREV dataset](https://github.com/DFKI-NLP/tacrev) to `data/TACREV`.
 ### Data processing
 The data process script is coming soon.
 
