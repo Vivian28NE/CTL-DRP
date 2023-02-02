@@ -1,0 +1,46 @@
+org:founded_by	Subject organization is founded by object person .
+org:top_members/employees	Object person is/are the top members/employees of subject organization .
+per:employee_of	Subject person is/are employed by object organization .
+per:schools_attended	Object school was where subject person attended .
+org:alternate_names	Object name is an alias of subject organization .
+org:member_of	Subject organization is a member of object organization/country/state/province .
+org:members	Subject organization has object organization/country/state/province as one of its members .
+org:parents	Subject organization belongs to object organization/country/state/province .
+org:subsidiaries	Object organization/country/state/province belongs to subject organization .
+org:shareholders	Object organization/person is a shareholder of subject organization .
+per:cities_of_residence	Subject person lives in object city .
+per:city_of_death	Subject person died in object city .
+per:city_of_birth	Subject person was born in object city .
+per:children	Object person is a child of subject person .
+per:siblings	Subject person and object person are siblings .
+per:spouse	Subject person and object person are married .
+per:other_family	Subject people come from different families .
+per:alternate_names	Object name is an alias of subject person .
+per:parents	Object person is parent of subject person .
+per:title	Object designation is the job title of subject person .
+per:religion	Object religious belif is the religion of subject person .
+per:age	Object num is the age of subject person .
+org:website	Object url link is the website of subject organization .
+per:stateorprovinces_of_residence	Subject person lives in object state/province .
+per:stateorprovince_of_birth	Subject person was born in object state/province .
+per:stateorprovince_of_death	Subject person died in object state/province .
+per:countries_of_residence	Subject person lives in object country .
+per:origin	Subject person come from object country .
+per:country_of_birth	Subject person was born in object country .
+per:country_of_death	Subject person died in object country .
+org:city_of_headquarters	The headquarter of subject organization locates in object city .
+org:country_of_headquarters	The headquarter of subject organization locates in object country .
+org:stateorprovince_of_headquarters	The headquarter of subject organization locates in object state/province .
+org:number_of_employees/members	Object number is how many employees/members of subject organization .
+org:political/religious_affiliation	Object political/religious_affiliation is political/religious orietation of subject organization .
+org:dissolved	Object date was when subject organization was dissolved .
+org:founded	Object date was when subject organization was founded .
+per:date_of_death	Object date was when subject person died .
+per:date_of_birth	Object date was when subject person was born .
+per:cause_of_death	Object reason is what lead to subject person 's death .
+per:charges	Object reason is why subject person was sentenced .
+org:city_of_branch	The branch of subject organization locates in object city .
+org:stateorprovince_of_branch	The branch of subject organization locates in object state/province .
+org:country_of_branch	The branch of subject organization locates in object country .
+per:identity	The subject person and the object person are the same person . 
+no_relation	There is no relation between subject and object .
